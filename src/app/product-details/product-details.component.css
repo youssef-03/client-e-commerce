@@ -1,0 +1,29 @@
+.image{
+    max-height: 500PX;
+    /* height: auto;  */
+    object-fit: contain;
+    /* min-width: 100px;
+    max-width: 220px;
+     */
+}
+.left-side{
+    border-radius: 10px;
+}
+.quantity-selector{
+    border: 1px solid rgb(191, 191, 191);
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
